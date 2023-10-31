@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <button className="btn btn-primary">Botão de Bootstrap</button>
       <form>
         <div className="form-group">
