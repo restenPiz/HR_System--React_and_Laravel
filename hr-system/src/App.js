@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   return (
+    //*Inicio da minha app de rotas
     <div className="container">
       <button className="btn btn-primary">Botão de Bootstrap</button>
       <form>
@@ -12,6 +13,7 @@ function App() {
         </div>
       </form>
     </div>
+    //*Fim da minha app de rotas
   );
 }
 
