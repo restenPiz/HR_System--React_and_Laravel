@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\reportWebVitals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\reportWebVitals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\setupTests.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\setupTests.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\App.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "reportWebVitals.js",
+              "DocumentMoniker": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\reportWebVitals.js",
+              "RelativeDocumentMoniker": "src\\reportWebVitals.js",
+              "ToolTip": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\reportWebVitals.js",
+              "RelativeToolTip": "src\\reportWebVitals.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T13:50:26.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "setupTests.js",
+              "DocumentMoniker": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\setupTests.js",
+              "RelativeDocumentMoniker": "src\\setupTests.js",
+              "ToolTip": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\setupTests.js",
+              "RelativeToolTip": "src\\setupTests.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T13:50:24.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\index.js",
+              "RelativeDocumentMoniker": "src\\index.js",
+              "ToolTip": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\index.js",
+              "RelativeToolTip": "src\\index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T13:50:22.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.test.js",
+              "DocumentMoniker": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\App.test.js",
+              "RelativeDocumentMoniker": "src\\App.test.js",
+              "ToolTip": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\App.test.js",
+              "RelativeToolTip": "src\\App.test.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T13:50:19.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\src\\App.js*",
+              "RelativeToolTip": "src\\App.js*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T13:50:07.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "C:\\wamp64\\www\\HR_System--React_and_Laravel\\hr-system\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-15T13:50:00.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
